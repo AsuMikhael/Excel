@@ -1,0 +1,11 @@
+🎯 Business Questions to Dashboard and Columns		
+Dashboard Requirement		Dashboard Element		Column Used
+Total Revenue			Total Revenue			Revenue
+Total Orders			Total Orders			Order ID
+Quantity Sold			Total Quantity Sold		Quantity
+Average Order Value		Average Order Value		Revenue
+Monthly Revenue Trend		Revenue by Month		Date and Revenue
+Regional Performance		Revenue by Region		Region and Revenue
+Product Category Performance	Revenue by Product Category	Product Category and Revenue
+Sales Channel Contribution	Revenue by Sales Channel	Sales Channel and Revenue
+Top Products by Revenue		Top 5 Products by Revenue	Product and Revenue
